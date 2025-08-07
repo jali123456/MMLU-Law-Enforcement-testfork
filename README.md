@@ -1,30 +1,45 @@
-# MMLU Law Enforcement
-Central repository for MMLU Law Enforcement questions used to test and evaluate ELMU Insights' performance across various academic and professional domains, including law enforcement, compliance, and general knowledge.
+# 🔒 Law Enforcement MMLU Dataset
 
-# Brief Guidelines To Train ELMU Insights.AKTA
+Welcome to the official repository of the **Law Enforcement Massive Multitask Language Understanding (MMLU)** dataset. This open-source initiative aims to benchmark large language models (LLMs) and human performance across a wide array of enforcement domains including criminal law, investigative procedures, digital forensics, and ethical enforcement conduct.
 
-## 1. Scenario Based Structure
-* Create realistic situations officers might encounter 
-* Include relevant contextual details 
-* Present multiple plausible response options 
-* Test both knowledge and judgment
+---
 
-## 2. Difficulty Levels
-* Basic: Fundamental knowledge and procedures 
-* Intermediate: Complex scenarios requiring analysis 
-* Advanced: Multiple factors and policy considerations
+## 🌎 Purpose
 
-## 3. Question Categories
-* Knowledge-based: Testing specific laws/procedures 
-* Application: Applying knowledge to scenarios 
-* Analysis: Evaluating complex situations
-* Decision-making: Choosing best courses of action
+To provide a high-quality, peer-reviewed benchmark to evaluate reasoning, recall, and decision-making ability of both AI systems and professionals within the law enforcement and governance ecosystem.
 
-## 4. Answer Options
-* Include common misconceptions 
-* Make all options plausible 
-* Avoid obvious incorrect answers 
-* Include nuanced distinctions
+---
 
-## Feedback
-Suggestions and opinions (both positive and negative) are greatly welcome. Please contact us by sending email to [elmu.ai@elmu.edu.my](mailto:elmu.ai@elmu.edu.my).
+## 📚 Dataset Overview
+
+- **Format**: JSON Lines (.jsonl)  
+- **Type**: Multiple Choice Questions (MCQs)  
+- **Domains Covered**:
+  - Criminal Procedure Code (CPC)
+  - Penal Code
+  - Evidence Act
+  - Police SOPs
+  - AML/CFT
+  - Cybercrime Laws
+  - Forensics & Investigation  
+- **Metadata Tags**:
+  - `category`
+  - `difficulty`
+  - `reference`
+  - `explanation`
+
+---
+
+## 🔢 Sample Entry
+
+```json
+{
+  "id": "LE001",
+  "question": "Under Malaysian CPC, what is the maximum remand period a Magistrate can grant for a serious offence?",
+  "options": ["7 days", "14 days", "15 days", "21 days"],
+  "answer": "15 days",
+  "category": "Criminal Procedure",
+  "difficulty": "Advanced",
+  "reference": "Section 117 CPC",
+  "explanation": "For serious offences, the remand can be extended up to 15 days."
+}

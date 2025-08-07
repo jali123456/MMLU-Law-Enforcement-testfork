@@ -6,7 +6,7 @@ Welcome to the official repository of the **Law Enforcement Massive Multitask La
 
 ## 🌎 Purpose
 
-To provide a high-quality, peer-reviewed benchmark to evaluate reasoning, recall, and decision-making ability of both AI systems and professionals within the law enforcement and governance ecosystem.
+To provide a high-quality, peer-reviewed benchmark to evaluate reasoning, recall, and decision-making abilities of both AI systems and professionals within the law enforcement ecosystem. This dataset will also be used to compare the performance of different LLMs — including our proprietary system, ELMU Insights.Akta.
 
 ---
 
@@ -46,14 +46,12 @@ To provide a high-quality, peer-reviewed benchmark to evaluate reasoning, recall
 ```
 ---
 
-## ✍️ How to Contribute
+## 🚀 Getting Started
 
-Please refer to the [`CONTRIBUTING.md`](CONTRIBUTING.md) file for:
-
-- Forking and pull request instructions  
-- Style and format guide  
-- Question validation checks  
-- Domain-specific labelling  
+1. Fork this repository  
+2. Read the [CONTRIBUTING.md](CONTRIBUTING.md) for formatting rules and submission guidelines  
+3. Use the provided `sample_question.jsonl` to begin drafting your contributions  
+4. Submit a pull request for review  
 
 ---
 
@@ -73,7 +71,13 @@ Attribution required when reusing the dataset.
 
 ## ✨ Roadmap
 
-- *(To be updated)*
+- [x] Prepare repository structure
+- [x] Draft contribution guidelines
+- [ ] Launch contributor campaign
+- [ ] Reach 500 validated questions across 10 categories
+- [ ] Release v1.0 dataset
+- [ ] Integrate with ELMU Insights.Akta for evaluation
+- [ ] Publish benchmark report comparing LLMs
 
 ---
 

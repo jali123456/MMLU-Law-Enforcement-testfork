@@ -81,6 +81,16 @@ Attribution required when reusing the dataset.
 
 ---
 
+## 🏆 Contributor Leaderboard
+
+| Rank | Contributor | Questions Submitted | Accepted Questions |
+|------|-------------|---------------------|--------------------|
+| 🥇 1 |             | 0                  | 0                 |
+| 🥈 2 |             | 0                  | 0                 |
+| 🥉 3 |             | 0                  | 0                 |
+
+---
+
 ## Feedback
 
 Suggestions and opinions (both positive and negative) are greatly welcome. 

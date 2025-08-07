@@ -43,7 +43,7 @@ To provide a high-quality, peer-reviewed benchmark to evaluate reasoning, recall
   "reference": "Section 117 CPC",
   "explanation": "For serious offences, the remand can be extended up to 15 days."
 }
-
+```
 ---
 
 ## ✍️ How to Contribute

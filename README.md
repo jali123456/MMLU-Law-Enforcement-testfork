@@ -43,3 +43,35 @@ To provide a high-quality, peer-reviewed benchmark to evaluate reasoning, recall
   "reference": "Section 117 CPC",
   "explanation": "For serious offences, the remand can be extended up to 15 days."
 }
+
+---
+
+## ✍️ How to Contribute
+
+Please refer to the `CONTRIBUTING.md` file for:
+
+- Forking and pull request instructions  
+- Style and format guide  
+- Question validation checks  
+- Domain-specific labelling  
+
+---
+
+## 👥 Community
+
+Join our discussion board via GitHub or our contributor Slack (invite in `CONTRIBUTING.md`).  
+We also run periodic **MMLU Data Jams** where contributors co-create and review questions live.
+
+---
+
+## ✅ License
+
+This project is licensed under the **MIT License**.  
+Attribution required when reusing the dataset.
+
+---
+
+## ✨ Roadmap
+
+- *(To be updated)*
+

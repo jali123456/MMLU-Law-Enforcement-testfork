@@ -11,7 +11,9 @@ Our mission is to create a high-quality benchmark that reflects the complexity a
 2. Create a new branch: `feature/your-topic`  
 3. Add questions to `dataset/questions.jsonl`  
 4. Ensure format follows the schema below  
-5. Submit a Pull Request with the label `new-question`  
+5. Submit a Pull Request with the label `new-question`
+
+Refer to `samples/sample_question.jsonl` as your starting template  
 
 ---
 

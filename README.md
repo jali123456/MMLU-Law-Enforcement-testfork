@@ -48,7 +48,7 @@ To provide a high-quality, peer-reviewed benchmark to evaluate reasoning, recall
 
 ## ✍️ How to Contribute
 
-Please refer to the `CONTRIBUTING.md` file for:
+Please refer to the [`CONTRIBUTING.md`](CONTRIBUTING.md) file for:
 
 - Forking and pull request instructions  
 - Style and format guide  
@@ -59,7 +59,7 @@ Please refer to the `CONTRIBUTING.md` file for:
 
 ## 👥 Community
 
-Join our discussion board via GitHub or our contributor Slack (invite in `CONTRIBUTING.md`).  
+Join our discussion board via GitHub or our contributor Slack (invite in [`CONTRIBUTING.md`](CONTRIBUTING.md)).  
 We also run periodic **MMLU Data Jams** where contributors co-create and review questions live.
 
 ---
@@ -74,4 +74,12 @@ Attribution required when reusing the dataset.
 ## ✨ Roadmap
 
 - *(To be updated)*
+
+---
+
+## Feedback
+
+Suggestions and opinions (both positive and negative) are greatly welcome. 
+Please contact us by sending email to [elmu.ai@elmu.edu.my](mailto:elmu.ai@elmu.edu.my).
+
 

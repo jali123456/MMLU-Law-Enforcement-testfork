@@ -17,5 +17,10 @@ This document summarizes the zero-shot evaluation results of various language mo
 | ChatGPT | Bahasa Melayu | 09-July-2025 | 100 | 2 | 98 | 98.0% |
 | Claude | Bahasa Melayu | 09-July-2025 | 100 | 6 | 94 | 94.0% |
 
+![Zero-Shot Prompting Accuracy Comparison](../images/zero_shot_prompting_accuracy_chart.png)
+
 ---
 
+## 📁 Related Files
+
+<!-- Upload pdrm question here, excel and jsonl -->

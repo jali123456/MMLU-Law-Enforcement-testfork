@@ -1,6 +1,6 @@
-# 🔒 Law Enforcement MMLU Dataset
+# 🔒 MMLU Law Enforcement Dataset
 
-Welcome to the official repository of the **Law Enforcement Massive Multitask Language Understanding (MMLU)** dataset. This open-source initiative aims to benchmark large language models (LLMs) and human performance across a wide array of enforcement domains including criminal law, investigative procedures, digital forensics, and ethical enforcement conduct.
+Welcome to the official repository of the **Massive Multitask Language Understanding (MMLU) Law Enforcement** dataset. This open-source initiative aims to benchmark large language models (LLMs) and human performance across a wide array of enforcement domains including criminal law, investigative procedures, digital forensics, and ethical enforcement conduct.
 
 ---
 

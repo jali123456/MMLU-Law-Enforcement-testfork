@@ -23,4 +23,5 @@ This document summarizes the zero-shot evaluation results of various language mo
 
 ## 📁 Related Files
 
-<!-- Upload pdrm question here, excel and jsonl -->
+- [Zero_Shot_Prompting_100_Question_Excel](zero_shot_prompting_100_questions.xlsx)
+- [Zero_Shot_Prompting_100_Question_JSONL](zero_shot_questions.jsonl)

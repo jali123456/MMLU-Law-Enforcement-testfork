@@ -36,3 +36,30 @@ Each item in the dataset follows this structure:
   "reviewer": "SME",
   "date_reviewed": "2025-04-22"
 }
+```
+
+---
+
+## ⚠️ Contributions
+
+- **Only verified questions are listed here.**
+- Community-contributed questions must go through review before being included here. Please refer to ![CONTRIBUTING.md](CONTRIBUTING.md) for submission guidelines.
+
+---
+
+## 🧠 Use Case
+
+This official set is used for:
+- Zero-shot benchmarking of LLMs
+- Fine-tuning experiments for Malaysia-specific law enforcement tasks.
+- Serving as a ground truth corpus for validation and training.
+
+---
+
+## 🔄 Updates
+
+This dataset is versioned. As more SME-approved questions are added, this file and associated metadata will be updated. Please refer to the changelog below.
+
+### **Changelog**
+
+- v0.1 (2025-08-15): Initial upload of 287 verified questions.

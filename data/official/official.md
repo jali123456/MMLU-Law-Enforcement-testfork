@@ -43,7 +43,7 @@ Each item in the dataset follows this structure:
 ## ⚠️ Contributions
 
 - **Only verified questions are listed here.**
-- Community-contributed questions must go through review before being included here. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for submission guidelines.
+- Community-contributed questions must go through review before being included here. Please refer to [CONTRIBUTING.md](main/CONTRIBUTING.md) for submission guidelines.
 
 ---
 
@@ -52,7 +52,7 @@ Each item in the dataset follows this structure:
 This official set is used for:
 - Zero-shot benchmarking of LLMs
 - Fine-tuning experiments for Malaysia-specific law enforcement tasks.
-- Serving as a ground truth corpus for validation and training.
+- Serving as a **ground truth** corpus for validation and training.
 
 ---
 

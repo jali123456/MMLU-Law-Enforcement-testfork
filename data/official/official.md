@@ -43,7 +43,7 @@ Each item in the dataset follows this structure:
 ## ⚠️ Contributions
 
 - **Only verified questions are listed here.**
-- Community-contributed questions must go through review before being included here. Please refer to [CONTRIBUTING.md](main/CONTRIBUTING.md) for submission guidelines.
+- Community-contributed questions must go through review before being included here. Please refer to [Submission Guidelines](../../CONTRIBUTING.md) for submission guidelines.
 
 ---
 
@@ -64,3 +64,11 @@ For technical metadata and version tracking, see [`manifest.json`](./manifest.js
 ### **Changelog**
 
 - v0.1 (2025-08-15): Initial upload of 287 verified questions.
+
+---
+
+## 📝 Citation
+
+If you use this dataset, please cite:
+
+> MMLU Law Enforcement (v0.1). ELMU University, 2025

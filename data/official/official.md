@@ -1,6 +1,6 @@
 # 📁 Official Question Depository
 
-This section contains the **official and verified** multiple-choice questions (MCQs) contributed to the ELMU Law Enforcement MMLU project. These questions form the core dataset used to evaluate and fine-tune various LLMs for law enforcement, legal, and governance applications.
+This section contains the **official and verified** multiple-choice questions (MCQs) contributed to the MMLU Law Enforcement project. These questions form the core dataset used to evaluate and fine-tune various LLMs for law enforcement, legal, and governance applications.
 
 All questions in this depository have been reviewed and validated by Subject Matter Experts (SMEs) from enforcement, legal, and academic backgrounds.
 

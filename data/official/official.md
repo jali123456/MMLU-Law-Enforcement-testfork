@@ -59,6 +59,7 @@ This official set is used for:
 ## 🔄 Updates
 
 This dataset is versioned. As more SME-approved questions are added, this file and associated metadata will be updated. Please refer to the changelog below.
+For technical metadata and version tracking, see [`manifest.json`](./manifest.json).
 
 ### **Changelog**
 

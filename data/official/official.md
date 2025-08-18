@@ -43,7 +43,7 @@ Each item in the dataset follows this structure:
 ## ⚠️ Contributions
 
 - **Only verified questions are listed here.**
-- Community-contributed questions must go through review before being included here. Please refer to ![CONTRIBUTING.md](CONTRIBUTING.md) for submission guidelines.
+- Community-contributed questions must go through review before being included here. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for submission guidelines.
 
 ---
 

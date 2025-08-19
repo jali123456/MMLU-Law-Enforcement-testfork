@@ -1,0 +1,20 @@
+{
+  "name": "MMLU Law Enforcement Official Dataset",
+  "version": "v0.1",
+  "description": "A curated set of 287 verified law enforcement MCQs for benchmarking LLMs like ELMU Insights, GPT, and Claude.",
+  "format": "jsonl",
+  "language": "English",
+  "file_size": "18KB",
+  "num_questions": 287,
+  "created_at": "2025-04-22",
+  "schema": {
+    "id": "string",
+    "question": "string",
+    "options": ["string", "string", "string", "string"],
+    "answer": "string",
+    "category": "string",
+    "difficulty": "string",
+    "reference": "string",
+    "explanation": "string"
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "total_questions": 287,
+    "category_breakdown": {
+        "Knowledge-based": 167,
+        "Application": 61,
+        "Decision-making": 17,
+        "Analysis": 15,
+        "Analysis, Decision-making": 10,
+        "Analysis and \nDecision -making": 1,
+        "Analysis and \nDecision-making": 15,
+        "Analysis ": 1
+    },
+    "difficulty_breakdown": {
+        "Basic": 147,
+        "Intermediate": 99,
+        "Advanced": 41
+    }
+}

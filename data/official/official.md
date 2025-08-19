@@ -40,6 +40,28 @@ Each item in the dataset follows this structure:
 
 ---
 
+### 📘 Dataset Manifest
+
+The metadata and schema of this dataset release are documented in the [`manifest.json`](./manifest.json) file. It includes information such as:
+- Dataset version
+- Language and format
+- Schema structure
+- File details
+
+Refer to it when integrating this dataset into external tools or pipelines.
+
+---
+
+### 📊 Dataset Statistics
+
+Summary statistics about this official release — including question count, difficulty levels, and category breakdown — are available in [`stats.json`](./stats.json).  
+These stats are auto-generated to help with:
+- Benchmark comparisons
+- Leaderboard updates
+- Dataset growth tracking
+
+---
+
 ## ⚠️ Contributions
 
 - **Only verified questions are listed here.**

@@ -1,7 +1,7 @@
 # ✍️ Contributing to the Law Enforcement MMLU Dataset
 
 Thank you for your interest in contributing!  
-Our mission is to create a high-quality benchmark that reflects the complexity and standards of global law enforcement.
+Our mission is to create a high-quality benchmark that reflects the complexity and standards of global law enforcement..
 
 ---
 

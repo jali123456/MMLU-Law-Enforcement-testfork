@@ -23,8 +23,8 @@ This document summarizes the zero-shot evaluation results of various language mo
 
 ## 📁 Related Files
 
-- [Zero_Shot_Prompting_100_Question_Excel](zero_shot_prompting_100_questions.xlsx)
-- [Zero_Shot_Prompting_100_Question_JSONL](zero_shot_questions.jsonl)
+- [Zero_Shot_Prompting_100_Question_Excel](zero-shot_100_questions.xlsx)
+- [Zero_Shot_Prompting_100_Question_JSONL](zero-shot_100_questions.jsonl)
 
 ## 📝 Notes
 
